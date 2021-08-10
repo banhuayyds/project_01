@@ -1,0 +1,7 @@
+#注释
+
+#忽略index.css
+index.css
+
+#忽略test
+test/
